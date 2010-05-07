@@ -2,7 +2,7 @@ DESCRIPTION = "xSense/MTI IMU drivers and test program"
 LICENSE = "BSD"
 HOMEPAGE = "http://softs.laas.fr/openrobots/"
 DEPENDS = "mkdep-native"
-PN = "mti"
+PN = "mti-libs"
 PV = "0.4"
 PR = "r0"
 

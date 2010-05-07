@@ -5,7 +5,7 @@ LICENSE = "BSD"
 HOMEPAGE = "http://softs.laas.fr/openrobots/"
 DEPENDS = "mkdep-native"
 SRCREV = "63d1948"
-PN = "mti"
+PN = "mti-libs"
 PV = "0.4+git${SRCREV}"
 PR = "r0"
 
