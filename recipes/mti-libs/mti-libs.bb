@@ -18,14 +18,3 @@ inherit pkgconfig autotools
 
 EXTRA_OECONF += "MKDEP=${STAGING_DIR}/${BUILD_SYS}/usr/bin/mkdep"
 
-FILES_${PN} = "\
-	    bin/MTIHardTest \
-	    include/MTI-clients/MTComm.h \
-	    include/MTI-clients/MTI.h \
-	    include/MTI-clients/structMTI.h \
-	    lib/libMTI.la \
-	    lib/pkgconfig/MTI-clients.pc \
-	    "
-
-	   
-
